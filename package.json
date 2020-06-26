@@ -2,7 +2,7 @@
   "name": "date-year-new",
   "version": "0.1.0",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.19.2",
     "create-react-app": "^1.4.3",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
